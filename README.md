@@ -1,3 +1,3 @@
-﻿# MyBlogShare
-博客中的项目演示,UnitySocket多人聊天
+﻿#UnitySocket多人聊天
+
 SocketDemo.exe是有VS项目生成的,可以直接运行就开启服务器了;SockeDemo.zip是源工程项目;SocetChat.unitypackage是Unity的源工程项目,新建一个Unity项目导入即可
